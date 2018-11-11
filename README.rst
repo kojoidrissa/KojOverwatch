@@ -1,3 +1,8 @@
-OWWC (Overwatch World Cup) Stat Tracking
+KojOverwatch: Kojo's Overwatch Stat Tracking
 =========================================
-A simple project using Beautiful Soup4 to scrape Qualification Round stats from https://worldcup.playoverwatch.com/en-us/ for further analysis. 
+I'm gonna try a couple of different libraries to pull my stats out of Overwatch and build my own stat tracker.
+
+-  python-overwatch
+-  ?
+-  ?
+-  There's a JS one too
