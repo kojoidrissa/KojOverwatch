@@ -1,0 +1,29 @@
+
+OVERALL STATS
+['All Damage Done - Most in Game', '18951', 'Barrier Damage Done - Most in Game', '13559', 'Defensive Assists - Most in Game', '34', 'Eliminations - Most in Game', '38', 'Environmental Kills - Most in Game', '6', 'Final Blows - Most in Game', '25', 'Healing Done - Most in Game', '25015', 'Hero Damage Done - Most in Game', '12981', 'Kill Streak - Best', '38', 'Melee Final Blow - Most in Game', '1', 'Multikill - Best', '4', 'Objective Kills - Most in Game', '22', 'Objective Time - Most in Game', '10:26', 'Offensive Assists - Most in Game', '37', 'Solo Kills - Most in Game', '25', 'Teleporter Pads Destroyed - Most in Game', '3', 'Time Spent on Fire - Most in Game', '08:46', 'Turrets Destroyed - Most in Game', '22']
+
+GENERAL STATS
+
+ANA
+['Biotic Grenade Kills', '7', 'Enemies Slept', '26', 'Enemies Slept - Avg per 10 Min', '0.01', 'Enemies Slept - Most in Game', '8', 'Nano Boost Assists', '3', 'Nano Boost Assists - Avg per 10 Min', '0.00', 'Nano Boost Assists - Most in Game', '2', 'Nano Boosts Applied', '8', 'Nano Boosts Applied - Avg per 10 Min', '0.00', 'Nano Boosts Applied - Most in Game', '2', 'Scoped Accuracy', '46%', 'Scoped Accuracy - Best in Game', '58%', 'Secondary Fire Accuracy', '29%', 'Self Healing', '1320', 'Self Healing - Avg per 10 Min', '0.34', 'Self Healing - Most in Game', '300', 'Unscoped Accuracy', '44%', 'Unscoped Accuracy - Best in Game', '55%']
+LUCIO
+['Secondary Fire Accuracy', '24%', 'Self Healing', '430071', 'Self Healing - Avg per 10 Min', '3.21', 'Self Healing - Most in Game', '5785', 'Sound Barriers Provided', '2556', 'Sound Barriers Provided - Avg per 10 Min', '0.02', 'Sound Barriers Provided - Most in Game', '39']
+BRIGITTE
+['Armor Provided', '132021', 'Armor Provided - Avg per 10 Min', '2.91', 'Armor Provided - Most in Game', '2702', 'Damage Blocked', '241739', 'Damage Blocked - Avg per 10 Min', '5.33', 'Damage Blocked - Most in Game', '6214', 'Inspire Uptime Percentage', '24%', 'Self Healing', '54935', 'Self Healing - Avg per 10 Min', '1.21']
+MOIRA
+['Coalescence Healing', '52144', 'Coalescence Healing - Avg per 10 Min', '0.90', 'Coalescence Healing - Most in Game', '2386', 'Coalescence Kills', '180', 'Coalescence Kills - Avg per 10 Min', '0.00', 'Coalescence Kills - Most in Game', '7', 'Secondary Fire Accuracy', '49%', 'Self Healing', '105824', 'Self Healing - Avg per 10 Min', '1.83', 'Self Healing - Most in Game', '2696']
+ZENYATTA
+['Secondary Fire Accuracy', '28%', 'Self Healing', '19026', 'Self Healing - Avg per 10 Min', '0.26', 'Self Healing - Most in Game', '472', 'Transcendence Healing', '110984', 'Transcendence Healing - Best', '1471']
+
+COMBAT STATS
+
+ANA
+['All Damage Done', '23034', 'Barrier Damage Done', '4976', 'Deaths', '48', 'Eliminations', '37', 'Final Blows', '11', 'Hero Damage Done', '17899', 'Objective Kills', '18', 'Objective Time', '03:18', 'Solo Kills', '5', 'Time Spent on Fire', '00:14', 'Weapon Accuracy', '29%']
+LUCIO
+['All Damage Done', '1022628', 'Barrier Damage Done', '333137', 'Critical Hit Accuracy', '9%', 'Critical Hits', '2512', 'Deaths', '2061', 'Eliminations', '2782', 'Environmental Kills', '160', 'Final Blows', '510', 'Hero Damage Done', '652783', 'Melee Final Blows', '2', 'Multikills', '5', 'Objective Kills', '1778', 'Objective Time', '06:36:27', 'Quick Melee Accuracy', '31%', 'Solo Kills', '105', 'Time Spent on Fire', '03:13:37', 'Weapon Accuracy', '24%']
+BRIGITTE
+['All Damage Done', '296520', 'Barrier Damage Done', '38155', 'Deaths', '736', 'Eliminations', '911', 'Environmental Kills', '7', 'Final Blows', '328', 'Hero Damage Done', '249590', 'Multikills', '4', 'Objective Kills', '431', 'Objective Time', '01:56:35', 'Solo Kills', '47', 'Time Spent on Fire', '53:12']
+MOIRA
+['All Damage Done', '538068', 'Barrier Damage Done', '68866', 'Deaths', '880', 'Eliminations', '1756', 'Final Blows', '557', 'Hero Damage Done', '458007', 'Multikills', '8', 'Objective Kills', '767', 'Objective Time', '01:51:40', 'Quick Melee Accuracy', '33%', 'Solo Kills', '109', 'Time Spent on Fire', '31:33']
+ZENYATTA
+['All Damage Done', '724084', 'Barrier Damage Done', '243547', 'Critical Hit Accuracy', '8%', 'Critical Hits', '759', 'Deaths', '1116', 'Eliminations', '1426', 'Final Blows', '529', 'Hero Damage Done', '462302', 'Melee Final Blows', '2', 'Objective Kills', '624', 'Objective Time', '02:14:38', 'Quick Melee Accuracy', '19%', 'Solo Kills', '79', 'Time Spent on Fire', '01:06:33', 'Weapon Accuracy', '28%']
